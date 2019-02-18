@@ -1,0 +1,32 @@
+{
+    "employees" : [
+        {
+            "id": 1,
+            "firstName": "Thomas",
+            "lastName": "Wordsworth",
+            "department": "Accounting",
+            "supervisor": false
+        },
+        {
+            "id": 2,
+            "firstName": "Barb",
+            "lastName": "Farmer",
+            "department": "IT",
+            "supervisor": false
+        },
+        {
+            "id": 3,
+            "firstName": "Molly",
+            "lastName": "Hemstreet",
+            "department": "Accounting",
+            "supervisor": true
+        },
+        {
+            "id": 1,
+            "firstName": "Sam",
+            "lastName": "Ackers",
+            "department": "Manufacturing",
+            "supervisor": false
+        }
+    ]
+}
