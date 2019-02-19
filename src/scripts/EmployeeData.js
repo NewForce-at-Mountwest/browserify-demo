@@ -1,1 +1,0 @@
-// This module should export a function that fetches all the employees from the database
